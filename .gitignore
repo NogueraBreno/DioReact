@@ -1,1 +1,21 @@
 trilha-react-desafio01-calculadora/node_modules
+trilha-react-desafio-2/node_modules
+trilha-react-desafio-2/.pnp
+trilha-react-desafio-2/.pnp.js
+
+# testing
+trilha-react-desafio-2/coverage
+
+# production
+trilha-react-desafio-2/build
+
+# misc
+trilha-react-desafio-2/.DS_Store
+trilha-react-desafio-2/.env.local
+trilha-react-desafio-2/.env.development.local
+trilha-react-desafio-2/.env.test.local
+trilha-react-desafio-2/.env.production.local
+
+trilha-react-desafio-2/npm-debug.log*
+trilha-react-desafio-2/yarn-debug.log*
+trilha-react-desafio-2/yarn-error.log*
