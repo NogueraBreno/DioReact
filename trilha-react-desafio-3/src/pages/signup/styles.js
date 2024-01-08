@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+import styled, {css}  from 'styled-components';
 
 export const Container = styled.main`
     width: 100%;
@@ -23,7 +23,6 @@ export const Column = styled.div`
 export const Row = styled.div`
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
     align-items: center;
     margin-top: 20px;
 `
@@ -60,23 +59,23 @@ export const SubtitleLogin = styled.p`
     margin-bottom: 35px;
 `
 
-
-export const EsqueciText  = styled.p`
+export const FacaLoginText =  styled.p`
     font-family: 'Open Sans';
     font-style: normal;
     font-weight: 700;
     font-size: 14px;
     line-height: 19px;
+    margin-right: 4px;
+    color: #FFFFFF;
 
-    color: #E5E044;
-` 
+`
 
-export const CriarText =  styled.a`
+export const LoginAnchor =  styled.a`
     font-family: 'Open Sans';
     font-style: normal;
     font-weight: 700;
     font-size: 14px;
     line-height: 19px;
-    text-decoration: none;
     color: #23DD7A;
+    text-decoration: none;
 `
