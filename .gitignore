@@ -42,3 +42,28 @@ trilha-react-desafio-3/.env.production.local
 trilha-react-desafio-3/npm-debug.log*
 trilha-react-desafio-3/yarn-debug.log*
 trilha-react-desafio-3/yarn-error.log*
+
+
+#desafio-4
+
+# dependencies
+trilha-react-desafio-4/node_modules
+trilha-react-desafio-4/.pnp
+trilha-react-desafio-4/.pnp.js
+
+# testing
+trilha-react-desafio-4/coverage
+
+# production
+trilha-react-desafio-4/build
+
+# misc
+trilha-react-desafio-4/.DS_Store
+trilha-react-desafio-4/.env.local
+trilha-react-desafio-4/.env.development.local
+trilha-react-desafio-4/.env.test.local
+trilha-react-desafio-4/.env.production.local
+
+trilha-react-desafio-4/npm-debug.log*
+trilha-react-desafio-4/yarn-debug.log*
+trilha-react-desafio-4/yarn-error.log*
