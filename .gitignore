@@ -67,3 +67,44 @@ trilha-react-desafio-4/.env.production.local
 trilha-react-desafio-4/npm-debug.log*
 trilha-react-desafio-4/yarn-debug.log*
 trilha-react-desafio-4/yarn-error.log*
+
+
+#desafio-05
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+trilha-react-desafio-5/node_modules
+trilha-react-desafio-5/.pnp
+trilha-react-desafio-5/.pnp.js
+
+# testing
+trilha-react-desafio-5/coverage
+
+# next.js
+trilha-react-desafio-5/.next/
+trilha-react-desafio-5/out/
+
+# production
+trilha-react-desafio-5/build
+
+# misc
+trilha-react-desafio-5/.DS_Store
+trilha-react-desafio-5/*.pem
+
+# debug
+trilha-react-desafio-5/npm-debug.log*
+trilha-react-desafio-5/yarn-debug.log*
+trilha-react-desafio-5/yarn-error.log*
+
+# local env files
+trilha-react-desafio-5/.env.local
+trilha-react-desafio-5/.env.development.local
+trilha-react-desafio-5/.env.test.local
+trilha-react-desafio-5/.env.production.local
+
+# vercel
+trilha-react-desafio-5/.vercel
+
+# netlify
+trilha-react-desafio-5/.netlify
